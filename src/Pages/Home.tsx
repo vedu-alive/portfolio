@@ -3,6 +3,7 @@ import { Canvas } from "@react-three/fiber";
 import Loader from "../components/Loader";
 import { Bird, Island, Plane, Sky } from "../models";
 import HomeInfo from "../components/HomeInfo";
+// @ts-ignore
 import sakura from "../assets/sakura.mp3";
 import { soundoff, soundon } from "../assets/icons";
 
